@@ -1,0 +1,73 @@
+20
+2Alvedon
+10 40
+30 20
+3Albyl
+15 5
+40 15
+60 30
+4Ipren
+10 10
+20 60
+30 40
+40 5
+3Bamyl
+25 30
+50 40
+100 10
+3Bencium
+10 20
+25 10
+50 5
+3Fexofenadin
+15 10
+35 30
+50 15
+3Dulcolax
+5 30
+15 20
+25 5
+3Novalucol
+20 100
+50 25
+70 10
+3Imodium
+2 16
+4 8
+6 4
+2Postafen
+25 10
+50 5
+2Decloratadin
+5 30
+15 10
+3Clarityn
+10 28
+20 15
+30 8
+3Cetirizin
+10 10
+15 10
+20 10
+2Kestine
+10 10
+20 8
+3Zyrlex
+10 30
+20 50
+30 15
+1Gaviscon
+25 20
+2Pepcid
+100 24
+200 16
+3Losec
+20 7
+25 10
+100 0
+2Resulax
+5 50
+10 20
+2Stomacid
+150 30
+200 20
