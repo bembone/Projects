@@ -12,7 +12,7 @@ Simpler project which tried to emulate a modern DoorLock system. Hardware that w
 This was the project connected to our bachelors thesis. The goal of the bachelors project/thesis was to show that it was possible to have a software that can generate semi-random passwords that are secure yet still memorable to the user. The title of the thesis is "Developing a password generating software - Regaring password memorability and security" written by Anton Mogaddam and Muhammad Khan. Due to the neture of the project and the timeframe of said project the code is very messy and ugly, and was mainly done to obtain the desired functionality as fast as possible.
 
 # Java Poker Squares
-This program is ued to play a simple game of "Poker squares". The user has 5 cards in 5 different piles, different combo of cards (pair etc) gives a set amount of points.
+This program is used to play a simple game of "Poker squares". The user has 5 cards in 5 different piles, different combo of cards (pair etc) gives a set amount of points.
 
 # Java Sudoku Game
 Complete Sudoku game programmed as a pair of 2 students. Functioning GUI for program was also made with "JavaFX".
